@@ -11,6 +11,3 @@ This repository contains the documentation for a project submitted to the Consor
 ## Team
 - Gineffra Cauza- Project Lead and Developer
 - Olivia Kapinos- Researcher and Analyst
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
